@@ -7,4 +7,4 @@ mucho texto
 
 ## Otra seccion
 
-mas texto. Más texto aun
+mas texto. Más texto aun.  
